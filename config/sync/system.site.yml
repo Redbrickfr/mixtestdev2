@@ -1,0 +1,14 @@
+uuid: dacee905-b372-4429-91d2-0c59ba4aa438
+name: mix-media-test
+mail: abonsard@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
