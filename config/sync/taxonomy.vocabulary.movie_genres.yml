@@ -1,0 +1,9 @@
+uuid: bf144cd4-cb3c-4992-8cfe-205481148794
+langcode: en
+status: true
+dependencies: {  }
+name: Genres
+vid: movie_genres
+description: ''
+hierarchy: 0
+weight: 0
