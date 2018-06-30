@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9e7c950faebba6dade24de5b265188a3",
+    "content-hash": "3af95fd9fdf1383ef52d354672d52dc0",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1930,6 +1930,56 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "time": "2018-06-06T21:02:51+00:00"
+        },
+        {
+            "name": "drupal/yaml_content",
+            "version": "1.0.0-alpha3",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupal.org/project/yaml_content",
+                "reference": "8.x-1.0-alpha3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/yaml_content-8.x-1.0-alpha3.zip",
+                "reference": "8.x-1.0-alpha3",
+                "shasum": "b3d7f15b83004365b1d0cbf9c8c19bf1f1964b1f"
+            },
+            "require": {
+                "drupal/core": "~8.0"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": "^1.0"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0-alpha3",
+                    "datestamp": "1496413600",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Project has not opted into security advisory coverage!"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "slucero",
+                    "homepage": "https://www.drupal.org/user/1612534"
+                }
+            ],
+            "description": "Demo content generator using yaml content templates.",
+            "homepage": "https://www.drupal.org/project/yaml_content",
+            "support": {
+                "source": "http://cgit.drupalcode.org/yaml_content"
+            }
         },
         {
             "name": "drush/drush",
