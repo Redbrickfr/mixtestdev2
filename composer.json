@@ -24,6 +24,7 @@
         "drupal/content_sync": "^2.0",
         "drupal/core": "~8.5.3",
         "drupal/yaml_content": "^1.0",
+        "drupal/zurb_foundation": "^6.0",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
