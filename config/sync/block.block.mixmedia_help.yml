@@ -1,0 +1,22 @@
+uuid: 0897ea17-17d6-422c-9e70-4eccad7b3eec
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - mixmedia
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: mixmedia_help
+theme: mixmedia
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }
